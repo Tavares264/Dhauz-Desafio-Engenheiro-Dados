@@ -1,0 +1,7 @@
+Considere agora que você tenha que montar uma arquitetura em cloud, idealmente na Google Cloud 
+Platform, para realizar de forma recorrente as tarefas acima citadas.
+Descreve a arquitetura proposta. Quais soluções/serviços/tecnologias você utilizaria?
+
+Com um volumetria de dados baixa ultilizaria, big query e Cloud Functions
+
+Já uma volumetria de dados alta ultilizaria uma estrutura com Cloud Composer e big query
